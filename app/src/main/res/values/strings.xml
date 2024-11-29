@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personal Chat</string>
+    <string name="body_text">And we’ve assembled a team of experts from across Android to answer your #AskAndroid questions on building excellent apps, across devices - share your questions now and tune in to see if they are answered live on the show! #TheAndroidShow is your conversation with the Android developer community, this time hosted by Simona Milanović and Alejandra Stamato. You ll hear the latest from the developers and engineers who build Android. Don’t forget to tune in live on October 31 at 10AM PT, live on YouTube and on developer.android.com/events/show!</string>
+    <string name="sign_in">Sign In</string>
+</resources>
